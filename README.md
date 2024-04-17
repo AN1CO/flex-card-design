@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+# Flexcard Design
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Screenshots
+
+<img width="344" alt="Screenshot 2024-04-17 at 4 38 09 PM" src="https://github.com/AN1CO/flex-card-design/assets/14117410/a2cea37c-d5f4-4fe1-887f-8d1cde7076de">
+<img width="352" alt="Screenshot 2024-04-17 at 4 38 01 PM" src="https://github.com/AN1CO/flex-card-design/assets/14117410/b54b7c05-8b36-4c73-a9b3-e5793c13c007">
+<img width="368" alt="Screenshot 2024-04-17 at 4 37 50 PM" src="https://github.com/AN1CO/flex-card-design/assets/14117410/4035e6f5-0f1a-4c45-a6a1-917fdc888b94">
+
+<img width="470" alt="Screenshot 2024-04-17 at 4 37 20 PM" src="https://github.com/AN1CO/flex-card-design/assets/14117410/0078faa1-9cdd-4d31-8122-29b27d814584">
+<img width="439" alt="Screenshot 2024-04-17 at 4 37 30 PM" src="https://github.com/AN1CO/flex-card-design/assets/14117410/9c487dd8-d2a3-491b-8143-9a1105ec565b">
+
+
+
+
 
 ## Available Scripts
 
