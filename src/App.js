@@ -4,9 +4,9 @@ import BG from "./assets/card_bg.svg";
 
 function App() {
   return (
-    <div className="container flex-auto px-2 pt-8 mx-5">
+    <div className="container flex-auto px-2 pt-8 mx-[55px]">
       <h1 className="text-[26px] leading-8 font-medium">Flex card</h1>
-      <h2 className="text-xl leading-8 font-normal mb-6">
+      <h2 className="text-xl leading-8 font-normal mb-[31px]">
         Used for pre-tax purchases
       </h2>
       {/* card */}
